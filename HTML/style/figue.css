@@ -1,0 +1,23 @@
+
+body{
+    background-color: #F3D0D7 ;
+}
+
+.inicio{
+    background-color: #FFAF45;
+    width: 150px;
+    margin: 200px;
+    padding: 10px;
+    margin: 50px;
+}
+
+h1{
+    color: #C4E4FF;
+    font-family: "Jersey 20", sans-serif;
+    text-align: center;
+
+}
+
+nav{
+    background-color: #D895DA;
+}
