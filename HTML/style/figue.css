@@ -3,18 +3,11 @@ body{
     background-color: #F3D0D7 ;
 }
 
-.inicio{
-    background-color: #FFAF45;
-    width: 150px;
-    margin: 200px;
-    padding: 10px;
-    margin: 50px;
-}
-
-#name{
-    color: #C4E4FF;
+h1 {
+    color: #D20062;
     font-family: "Jersey 20", sans-serif;
-    text-align:  left;
+    text-align:  center;
+    font-size: 50px;
 
 }
 
@@ -23,6 +16,27 @@ nav{
 }
 
 img{
-    width: 200px;
-    height: 80x;
+    width: 115px;
+    height: 115x;
+    float: left;
+    display: flex;
+}
+
+h3{
+    color: #41B06E;
+    font-family: "Jersey 20", sans-serif;
+    font-size: 30px;
+}
+
+a{
+    color: #D20062;
+}
+
+li{
+    color: #1C1678;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
 }
