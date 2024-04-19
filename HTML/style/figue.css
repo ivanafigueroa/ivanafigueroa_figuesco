@@ -11,13 +11,18 @@ body{
     margin: 50px;
 }
 
-h1{
+#name{
     color: #C4E4FF;
     font-family: "Jersey 20", sans-serif;
-    text-align: center;
+    text-align:  left;
 
 }
 
 nav{
     background-color: #D895DA;
+}
+
+img{
+    width: 200px;
+    height: 80x;
 }
